@@ -14,21 +14,21 @@
 하지만, 이 항목들에 대해서 클릭을 했을 때, 별개의 사이트로 이동되는 항목들이 있다. 
 이 항목들을 잘 이용하면, 예시로 리그오브레전드 같은 경우에는 전적 검색을 op.gg라는 별개의 사이트를 접속해야하는 번거로움이 있지만, 서든어택은 사이트내에서 이를 모두 지원해주기 때문에, 사용방법만 알면 번거로움이 없어지고 사이트내에서 모든것이 해결이 가능하다.
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/b74a0982-cdf6-4a56-93ee-d1b1976510d3)
 
 플리마켓(SP 경매장)
 
-![image.png](image%201.png)
+![image 1](https://github.com/user-attachments/assets/4b1de910-2c6a-459d-a7b9-a7c11e5effa9)
 
 병영수첩 외 항목들
 
-![image.png](image%202.png)
+![image 2](https://github.com/user-attachments/assets/fdd6640f-403e-4cc3-837f-26faabb1fa71)
 
 카운터 스트라이크 온라인
 
 찾기 쉬운 요소 : 게임시작 버튼 / 다운로드 / 공지사항 / 이벤트 / 커뮤니티 / 고객지원
 
-![image.png](image%203.png)
+![image 3](https://github.com/user-attachments/assets/00978c69-d844-42a3-9dac-26f4db3517aa)
 
 - 카스온라인은 큰틀의 카테고리 안에서의 항목들의 구분으로 이동하기 쉽게끔 ui와 구조가 설계되어있었다. 서든어택과는 다르게 세부 항목들의 요소의 이름만 확인해도 무슨 쓰임새인지 들어가보지 않아도 구분이 가능했다. 내가 필요한 항목만 찾아서 바로 바로 사용이 가능하다는 장점이 있다는 진입장벽의 허들이 낮다고 생각된다. 하지만, 서든어택 사이트 처럼 사이트 내부에서 모든 것을 해결할 수 있다는 이점이 사라지기도 한다.
 
@@ -37,7 +37,7 @@
 - 카스온라인에서는 인게임내에서 유저들의 커스텀 맵 창작에 대해서 적극적으로 밀어주고 있었다. 스튜디오라는 사이트를 아예 만들어줌으로써, 이 안에서 유저들이 만들어놓은 스튜디오를 소개 하고 있으며, 각 카테고리 별 스튜디오 맵들을 구분지어 놓고 있었다.
 유저들의 추천수가 많은 인기 스튜디오는 상단에 띄워주어서, 창작자 뿐만이 아닌 커스텀 맵 이용자들 또한 참여할 수 있는 공간을 만들어냈다.
 
-![image.png](image%204.png)
+![image 4](https://github.com/user-attachments/assets/13b25156-52c1-40da-b330-3364c7950e24)
 
 ---
 
@@ -49,19 +49,19 @@
 
 상단바에 전체적인 카테고리들이 명시되어 있음.
 
-![image.png](image%205.png)
+![image 5](https://github.com/user-attachments/assets/e7eb6ea5-3eb9-4657-96a1-c87ae519049b)
 
 커뮤니티 화면
 
-![image.png](image%206.png)
+![image 6](https://github.com/user-attachments/assets/1d67cbd8-f78b-420f-aae7-1f0c31b91107)
 
 병영수첩 화면
 
-![image.png](image%207.png)
+![image 7](https://github.com/user-attachments/assets/7b1ed5b7-5dda-4e8b-8854-ad0257fe54d0)
 
 카운터 스트라이크 온라인
 
-![image.png](image%208.png)
+![image 8](https://github.com/user-attachments/assets/71eb0848-ff6f-428e-8722-c482da9fa316)
 
 ## 상단 가이드 라인
 
@@ -69,13 +69,13 @@
 2. 또한, 백그라운드에 움직이는 영상을 배치하여, 준 것 또한 유저의 눈이 심심하지 않는 효과를 주었음. 
 3. 왼쪽에는 진행되는 이벤트 및 혜택들이 슬라이딩 형태로 움직여, 게임정보 구간에서도 현재, 카스의 주요 소식들에 대해서 잊지않고 접속 또는 확인이 가능하였음.
 
-![image.png](image%209.png)
+![image 9](https://github.com/user-attachments/assets/b8ca7907-b607-40d6-8d6a-8e904a1108f5)
 
 ## 가이드
 
 - 가이드 카테고리 안에서는, 해당 정보에 대한 탭을 누를경우에 기존 상단의 구성은 그대로 유지한채, 새로운 페이지로 연결이 되는 방식을 채택했음.
 
-![image.png](image%2010.png)
+![image 10](https://github.com/user-attachments/assets/d322a349-d544-496c-859b-6ae587b64ee4)
 
 ---
 
@@ -87,13 +87,13 @@
 2. 커뮤니티 게시판을 이용하기 위해서(판매글, 소통글 등이 주)
 3. 알려듀오라는 유저간의 멘토, 멘티 시스템 이용을 위해서(SP 지불)
 
-![image.png](image%2011.png)
+![image 11](https://github.com/user-attachments/assets/b3cfc7fe-5905-48f4-a359-426a1c6f6ddb)
 
 커뮤니티 내에서 전반적으로 확인해볼 수 있는 내용은 길로틴 점수(유저에게 제재를 가함으로서, 신고한 유저가 신뢰도를 얻는 시스템 - 배심원이 될 수 있음)에 대한 글, 밀봉 거래 관련글, 질문글들이 대다수
 
 (게임 사이트내의 커뮤니티 활성화가 잘되어있는 편이었음)
 
-![image.png](image%2012.png)
+![image 12](https://github.com/user-attachments/assets/2ad2c771-709d-4006-b07f-ab8313be44b2)
 
 카운터 스트라이크 온라인
 
@@ -102,15 +102,15 @@
 3. 자신이 어떠한 특정 맵을 클리어하거나 인증하기 위한 이미지 게시판
 4. 해당 게임에 유저들이 추가 또는 개선되었으면 하는 방향을 제시하는 아이디어 게시판
 
-![image.png](image%2013.png)
+![image 13](https://github.com/user-attachments/assets/9827b56e-e33a-4e6b-86f4-25f9d7587c01)
 
 ## 자유게시판
 
 자유게시판 내에서의 주를 이루는 소통은 유저들이 글을 올리면, 굳게다짐이라는 유저가 항상 댓글을 달아주는 분위기(그의 댓글이 달리지 않은 글을 보기가 힘들다)
 
-![image.png](image%2014.png)
+![image 14](https://github.com/user-attachments/assets/444c75fc-2725-4c4f-ab0b-5072e98d4069)
 
-![image.png](image%2015.png)
+![image 15](https://github.com/user-attachments/assets/d5fb7176-a887-4af9-b4f9-22f66506df1d)
 
 ## 전략게시판
 
@@ -118,7 +118,7 @@
 
 베스트 카테고리를 나눠놓은점이 좋았으며, 베스트로 선정되어있는 글 중, 뉴비 유저가 들어왔을때 구체적으로 무엇을 해야하고 어떤 방향으로 진행해야할지 가이드 라인을 제공해주어서 따라서 해보기 좋아보였음. 유저의 진입장벽이 다소 해소.
 
-![image.png](image%2016.png)
+![image 16](https://github.com/user-attachments/assets/813cf331-03bd-4fee-b091-b9ac1c45dfe9)
 
 ---
 
@@ -136,6 +136,6 @@
 
 ---
 
-![image.png](image%2017.png)
+![image 17](https://github.com/user-attachments/assets/a77901bd-55af-41f8-b928-aa8cbace6337)
 
 ---
